@@ -40,7 +40,7 @@ A modern, responsive real estate web application for showcasing premium properti
 
 ## Demo
 
-> _Add a link to your live demo here if deployed (e.g., Vercel, Netlify)_
+> _wait for link for live demo_
 
 ---
 
