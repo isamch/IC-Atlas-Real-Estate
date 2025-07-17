@@ -92,8 +92,8 @@ A modern, responsive real estate web application for showcasing premium properti
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
-   cd <project-directory>
+   git clone https://github.com/isamch/IC-Atlas-Real-Estate.git
+   cd IC-Atlas-Real-Estate
    ```
 2. **Install dependencies:**
    ```bash
@@ -141,9 +141,9 @@ npm start
 ## Contact
 For questions, feedback, or support, please contact:
 
-- **Email:** info@icatlas.com
-- **Phone:** +1 (555) 123-4567
-- **Address:** 123 Luxury Avenue, Manhattan, NY 10001, United States
+- **Email:** isamchajia@gmail.com
+- **Phone:** 
+- **Address:** 
 
 ---
 
