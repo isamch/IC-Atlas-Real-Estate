@@ -76,7 +76,6 @@ export default function HomePage() {
 
   return (
     <div className="min-h-screen bg-slate-50">
-      {/* Hero Section */}
       <section className="relative h-screen flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-r from-slate-900/80 to-slate-800/60 z-10" />
         <Image src="/images/hero-luxury-home.jpg" alt="Luxury Real Estate" fill className="object-cover" priority />
@@ -108,7 +107,6 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Stats Section */}
       <section className="py-16 bg-slate-900 text-white">
         <div className="container mx-auto px-4">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
@@ -123,7 +121,6 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Featured Properties */}
       <section className="py-20 bg-white">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
@@ -181,7 +178,6 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Why Choose Us */}
       <section className="py-20 bg-slate-100">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
@@ -225,7 +221,6 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Testimonials */}
       <section className="py-20 bg-white">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
@@ -265,7 +260,6 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* CTA Section */}
       <section className="py-20 bg-slate-900 text-white">
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-4xl md:text-5xl font-bold mb-6">Ready to Find Your Dream Property?</h2>
